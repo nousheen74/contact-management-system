@@ -126,7 +126,7 @@ DATABASE SETUP:
 The project uses a SQL database (e.g., SQLite, PostgreSQL, or MySQL) to store user and contact information.
 Migrations can be managed using a tool like Sequelize or TypeORM to ensure schema changes are tracked.
 
-OTHWR RELEVANT INFORMATION:
+OTHER RELEVANT INFORMATION:
 This project uses JWT for user authentication and includes email verification and password reset functionality.
 The application supports time zone handling for contact information and date-time management.
 The file upload feature allows bulk contact creation and updates via CSV/Excel files.
